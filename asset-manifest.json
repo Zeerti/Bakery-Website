@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bakery-Website/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Bakery-Website/static/js/main.7eb6555d.chunk.js",
+    "main.js.map": "/Bakery-Website/static/js/main.7eb6555d.chunk.js.map",
+    "runtime-main.js": "/Bakery-Website/static/js/runtime-main.1b66e76a.js",
+    "runtime-main.js.map": "/Bakery-Website/static/js/runtime-main.1b66e76a.js.map",
+    "static/js/2.71c839c1.chunk.js": "/Bakery-Website/static/js/2.71c839c1.chunk.js",
+    "static/js/2.71c839c1.chunk.js.map": "/Bakery-Website/static/js/2.71c839c1.chunk.js.map",
+    "static/js/3.d0e813bc.chunk.js": "/Bakery-Website/static/js/3.d0e813bc.chunk.js",
+    "static/js/3.d0e813bc.chunk.js.map": "/Bakery-Website/static/js/3.d0e813bc.chunk.js.map",
+    "index.html": "/Bakery-Website/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Bakery-Website/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.71c839c1.chunk.js.LICENSE.txt": "/Bakery-Website/static/js/2.71c839c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b66e76a.js",
+    "static/js/2.71c839c1.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.7eb6555d.chunk.js"
+  ]
+}
